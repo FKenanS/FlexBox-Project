@@ -15,10 +15,12 @@ body{
 
 
 .container{
-    border: 2px solid red;
     width: 80%;
     margin :auto;
     border-radius: 1.5rem;
+    /* background-color: bisque; */
+    box-shadow: 5px 5px 15px grey;
+    background-color: white;
 }
 
 /* ICONBAR */
@@ -33,22 +35,68 @@ body{
 }
 
 .input-part{
-   background-color: aqua; 
+   /* background-color: aqua;  */
    display:flex;
    align-items: center;
    flex-wrap: wrap;
+   gap: 1rem;
 }
 
-.select-category{
 
-
-}
 .select-category select{
     width: 188px;
     height: 40px;
     background-color: #d9d9d9;
     font-family:"Bellota Text", sans-serif;
+    border-radius: 5px;
+    border: none;
+    
+
 }
+
+.search-input{ 
+   background-color: #d9d9d9;
+   display: flex;
+   justify-content: space-between;
+   border-radius: 5px;
+   align-items: center;
+   margin-left: 1rem;
+   overflow: hidden;
+   height: 40px;
+   width: 310px;
+   
+   
+}
+.search-input input{
+    flex:0 1 300px;
+    background-color: inherit;
+    border: none;
+    font-style: 1.5rem;
+    padding: 0.5rem;
+}
+
+.search-input input:focus{
+    outline: none;
+}
+
+
+
+.support{
+    /* border: 2px solid black; */
+    text-align: right;
+    margin-left: 1rem;
+}
+.support-number{
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.support-text{
+    font-size: 0.8rem;
+}
+
+
+
+
 
 
 
@@ -61,5 +109,47 @@ body{
 }
 
 .icons{
-    background-color: blue;
+    /* border: 2px solid red; */
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    /* border: 2px solid red; */
+    display:flex;
+    padding: 10px 50px;
+    gap: 1rem;
+}
+
+.button{
+    /* border: 2px solid green; */
+    display: flex;
+    align-items: center;
+    width: 310px;
+    height: 40px;
+    gap: 1rem;
+    padding: 1rem;
+    font-style: italic;
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: #d9d9d9;
+    cursor: pointer;
+}
+
+.nav{
+    /* border: 2px solid blue; */
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+/* HEADER */
+
+header{
+    
 }
