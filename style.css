@@ -121,6 +121,7 @@ body{
     display:flex;
     padding: 10px 50px;
     gap: 1rem;
+    align-items: center;
 }
 
 .button{
@@ -148,8 +149,121 @@ body{
 }
 
 
-/* HEADER */
+/* --------------------------------- HEADER --------------------------------- */
+
 
 header{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    padding: 1rem 5rem;
+    background-image: url(./images/stock.jpg);
+    flex-wrap: wrap;
     
+}
+
+.essential{
+    background-color: #d5dee5;
+    display: flex;
+    flex-direction: row;
+    flex: 0 1 600px;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.essentail-text{
+    padding: 2rem;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.5rem;
+    letter-spacing: 0.3px;
+    padding: 20px;
+}
+.sofa img{
+    width: 100%;
+}
+.lighting{
+    background-color: #ffc868;
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    flex:0 1 300px;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px black;
+}
+.lighting img{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+}
+.lighting-text{
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    width: 80%;
+    float: right;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.3rem;
+    padding: 2rem;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                  CATEGORY                                  */
+/* -------------------------------------------------------------------------- */
+
+.category-section{
+    background-color: #aea08d;
+}
+
+.category-part{
+    padding: 2rem;
+    font-size: 2rem;
+}
+.category-part p{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 500;
+    
+}
+
+.categories{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.category{
+    width: 20rem;
+    height: 20rem;
+    margin: 1rem;
+    background-color: #e5e3df;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 0.8rem;
+    box-shadow: 5px 5px 15px grey;
+    font-family: "Josefin Slab", serif;
+    flex: 0 1 20rem;
+}
+.category p{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+.category img{
+    width: 80%;
+    height: 80%;
+    /*! best opt for img */
+    object-fit: cover;
+    border-radius: 0.8rem;
 }
