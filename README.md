@@ -1,35 +1,12 @@
-<img width="2854" height="5132" alt="127 0 0 1_5500_index html" src="https://github.com/user-attachments/assets/cd54e8dd-08f5-465b-9d1d-014b39c4798e" />🛋️ Furniture E-commerce Landing Page
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1427" height="2566" alt="127 0 0 1_5500_index html" src="https://github.com/user-attachments/assets/cd54e8dd-08f5-465b-9d1d-014b39c4798e" />🛋️ Furniture E-commerce Landing Page
 
 
 This project is a responsive landing page for a furniture and home decoration–themed e‑commerce website.
 It was built using pure HTML and CSS, with a focus on Flexbox for responsiveness instead of media queries wherever possible.
+
+
+
+
 
 🚀 Features
 Built entirely with HTML + CSS (no JavaScript dependencies)
@@ -44,6 +21,9 @@ Well-structured sections:
 🔹 Product Section showcasing key products
 🔹 Contact Form for consultation request
 🔹 Footer with copyright and policy links
+
+
+
 
 🛠️ Tech Stack
 HTML5
@@ -70,4 +50,36 @@ Add interactivity with JavaScript (e.g., product carousel, category dropdown)
 Implement a mobile hamburger menu
 Improve accessibility (ARIA attributes, better color contrast)
 ✨ Author
-Developed by Your Name
+Developed by KenS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
