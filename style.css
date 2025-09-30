@@ -423,3 +423,23 @@ span{
     margin-top: 1rem;  
     border: 1px solid #cf721b; 
 }
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+}
+
+.policy a{
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    margin-left: 0.1rem;
+    color: black;
+}
+
+.policy a:hover{
+    color: #cf721b;
+    border-color:#cf721b;
+    transition: 0.3s;
+}
