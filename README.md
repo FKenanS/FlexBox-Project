@@ -1,4 +1,4 @@
-<img width="1427" height="2566" alt="127 0 0 1_5500_index html" src="https://github.com/user-attachments/assets/cd54e8dd-08f5-465b-9d1d-014b39c4798e" />🛋️ Furniture E-commerce Landing Page
+<img width="1080" height="1920" alt="127 0 0 1_5500_index html" src="https://github.com/user-attachments/assets/cd54e8dd-08f5-465b-9d1d-014b39c4798e" />🛋️ Furniture E-commerce Landing Page
 
 
 This project is a responsive landing page for a furniture and home decoration–themed e‑commerce website.
