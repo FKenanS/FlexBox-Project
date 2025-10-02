@@ -74,7 +74,7 @@ root/
 💡 How to Use
 Clone or download this repository:
 bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/FKenanS/FlexBox-Project.git
 Open index.html in your browser.
 (Optional) Deploy via GitHub Pages or a static hosting platform.
 
@@ -96,4 +96,4 @@ Improve accessibility (ARIA attributes, better color contrast)
 
 
 ✨ Author
-Developed by KenS
+Developed by FKenanS
