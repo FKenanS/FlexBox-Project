@@ -63,6 +63,14 @@ root/
 
 
 
+
+
+
+
+
+
+
+
 💡 How to Use
 Clone or download this repository:
 bash
@@ -72,10 +80,6 @@ Open index.html in your browser.
 
 
 
-
-
-🌍 Live Demo
-👉 Demo Link (replace with your actual link)
 
 
 
@@ -92,4 +96,4 @@ Improve accessibility (ARIA attributes, better color contrast)
 
 
 ✨ Author
-Developed by Your KenS
+Developed by KenS
