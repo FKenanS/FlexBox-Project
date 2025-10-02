@@ -35,7 +35,8 @@ Well-structured sections:
 
 
 📸 Preview
-(Add a screenshot or a demo GIF here if you have one)
+<img width="2289" height="1375" alt="image" src="https://github.com/user-attachments/assets/65f93b8e-a60c-4c85-b8f6-c19d324c3be8" />
+
 
 
 
